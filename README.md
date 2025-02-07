@@ -11,7 +11,7 @@
 
 ### <u>Forge Installation:</u>
 
-1. **Download:** Download the [VolcAddons-1.1.jar](https://raw.githubusercontent.com/zhenga8533/VolcAddons/main/forge/VolcAddons-1.1.jar) file.
+1. **Download:** Download the [VolcAddons-1.1.jar](https://github.com/SchublLegend/VolcAddons/releases) file.
 
 2. **Integration:** Drag into Minecraft mods folder (NOT the CT modules folder).
 
