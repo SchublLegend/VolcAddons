@@ -1,0 +1,88 @@
+---
+layout: page
+title: Commands
+subtitle: List of every non-gui related commands.
+---
+
+### <u>General Commands</u>
+- **Settings**
+    - `/va gui`: Allows user to move all active GUI locations.
+    - `/va help`: Prints out the command help menu in game chat.
+    - `/va settings`: Opens the settings' menu.
+    - `/va toggles`: Opens the setting toggles' menu.
+    - `/va version`: Checks if you are currently on latest version and prints out changelog.
+    - `/VATest`: Prints out CT and VA versions for debugging.
+- **Lists**
+    - `/va attributelist`: Set wanted attributes to calculate for.
+    - `/va blacklist`: Set players to kick and ignore.
+    - `/va cd`: Set the cooldown of the currently held item.
+    - `/va dianalist`: Set locations in which Diana burrow warp uses.
+    - `/va emotelist`: Set words to replace in user sent messages.
+    - `/va ignorelist`: Set players to block from using leader/party commands.
+    - `/va prefixlist`: Set prefixes that are detected for leader/party commands.
+    - `/va spamlist`: Set chat messages to hide.
+    - `/va valuelist`: Set a constant value of the currently held item.
+    - `/va whitelist`: Set player party invites to auto join.
+    - `/va binds`: Set slot bindings and their presets.
+    - `/va buttons`: Set container buttons and their presets.
+    - `/va preview`: Set storage preview keys.
+    - `/va rabbits`: Shows locked rabbits.
+- **Waypoints**
+    - `/va cat`: Controls Montezuma Soul Piece waypoints.
+    - `/va eggs`: Controls chocolate egg waypoints.
+    - `/va enigma`: Controls Enigma Soul waypoints.
+    - `/va fairy`: Controls Fairy Soul waypoints.
+    - `/va npc`: Creates waypoints to user inputted NPCs.
+    - `/va zone`: Creates waypoints to user inputted locations.
+    - `/va waypoint`: Creates waypoints to user inputted coordinates.
+- **Economy**
+    - `/va attribute`: Various calculations that deal with attribute values.
+    - `/va calc`: Various calculations that deal with general economical values.
+    - `/va nw`: Calculates the networth of a SkyBlock profile using custom API.
+- **Kuudra**
+    - `/va splits`: Prints out Kuudra splits' stats.
+    - `/kv`: Display important Kuudra stats for inputted player profile.
+- **Socket**
+    - `/alloy`: Fetches last dropped alloy.
+    - `/chEvent`: Fetches current events active in the Crystal Hollows.
+    - `/dmEvent`: Fetches current events active in the Dwarven Mines.
+- **Dev**
+    - `/printTab`: Prints out Tablist names to console.
+    - `/printScore`: Prints out Scoreboard lines to console.
+    - `/va dev`: Toggles devButton usage.
+- **Misc**
+    - `/missingskins`: Scans user inventory API to determine any missing fire sale skins.
+    - `/pesttp`: Warps to plot with most pests.
+    - `/sk`: Opens the SkyCrypt profile of inputted user.
+
+### <u>Feature Commands</u>
+- **Stats**
+    - `/va stats`: Prints out SkyBlock tab stats.
+    - `/va pet`: Prints out current pet.
+    - `/va pt`: Prints out daily playtime.
+    - `/va sf`: Prints out current soulflow *(requires accessory in inventory)*.
+- **Status**
+    - `/va fps`: Prints out client's FPS.
+    - `/va tps`: Prints out server's TPS.
+    - `/va ping`: Prints out client's ping.
+    - `/va pitch`: Prints out player's exact pitch.
+    - `/va yaw`: Prints out player's exact yaw.
+- **Leader** *(Used in party chat)*
+    - `?<allinv, allinv>`: Toggles party all invite.
+    - `?invite [ign]`: Invites a player to the party.
+    - `?demote`: Demotes the sender.
+    - `?promote`: Promotes the sender.
+    - `?<f, m, t>[1-7]`: Runs the specified join instance command.
+    - `?stream [num]`: Runs the stream command to open the party.
+    - `?transfer`: Transfers the party to sender.
+    - `?warp`: Warps party into lobby.
+- **Party** *(Used in party chat)*
+    - `?8ball`: Calls upon the Magic 8 Ball.
+    - `?<coin, flip, coinflip, cf>`: Flips a coin.
+    - `?<coords, xyz>`: Sends coordinates of players in patcher format.
+    - `?<dice, roll>`: Rolls a 6 sided dice.
+    - `?<fps, ping, tps>`: Sends specified stat to party.
+    - `?help`: Prints out all party commands to chat.
+    - `?<limbo, lobby, l>`: Forces users to go into main lobby.
+    - `?rps`: Jan, ken, pon.
+    - `?<w, waifu, women>`: I am very quirky.
