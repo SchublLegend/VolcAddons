@@ -1,38 +1,6 @@
 <p align="center">
-    <a href="https://zhenga8533.github.io/VolcAddons/" target="_blank">
-      <img width="69%" src="https://i.imgur.com/tue81fa.png" alt="VolcAddons Logo">
-    </a>
-</p>
 
-<p align="center">
-    </br>
-    <img src="https://img.shields.io/github/v/release/zhenga8533/VolcAddons?style=flat-square" alt="GitHub release (latest by date)">
-    <img src="https://img.shields.io/github/languages/code-size/zhenga8533/VolcAddons?style=flat-square" alt="Code Size">
-    <img src="https://img.shields.io/github/license/zhenga8533/VolcAddons?style=flat-square" alt="License">
-    <a href="https://github.com/zhenga8533/VolcAddons/releases/latest">
-        <img src="https://img.shields.io/github/downloads/zhenga8533/VolcAddons/total?style=flat-square" alt="Downloads">
-    </a>
-    <img src="https://img.shields.io/github/last-commit/zhenga8533/VolcAddons?style=flat-square" alt="Last Commit">
-    </br>
-    <a href="https://raw.githubusercontent.com/zhenga8533/VolcAddons/main/forge/VolcAddons-1.1.jar">
-        <img src="https://img.shields.io/badge/GitHub-Forge%20Download-blue?style=for-the-badge&logo=github">
-    </a>
-    <a href="https://discord.gg/ftxB4kG2tw">
-        <img src="https://img.shields.io/discord/1136805313287299092?color=%237289DA&label=Discord&logo=discord&logoColor=white&style=for-the-badge" alt="Discord Server">
-    </a>
-</p>
 
-## Table of Contents
-
-- [Website](#website)
-- [Setup](#setup)
-- [Commands](#commands)
-- [Features](#features)
-  </br>
-
-## Website
-
-You can also view this page on the VolcAddons [website](https://zhenga8533.github.io/VolcAddons/).
 
 ## Setup
 
@@ -40,9 +8,6 @@ You can also view this page on the VolcAddons [website](https://zhenga8533.githu
 
 1. **Install Forge:** Ensure that you have [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html) installed to enable mod compatibility.
 
-2. **Install ChatTriggers:** You'll need [ChatTriggers](https://www.chattriggers.com) installed for advanced in-game functionality.
-
-3. **Choices:** Choose one of the two options below to follow.
 
 ### <u>Forge Installation:</u>
 
@@ -52,24 +17,6 @@ You can also view this page on the VolcAddons [website](https://zhenga8533.githu
 
 3. **El Fin v1:** You should be good to go! The mod will alert you if there is ever a new release in which you can just run `/updateva`!
 
-### <u>Manual Installation:</u>
-
-1. **Download:** Get the zip file, available either on our [Discord server](https://discord.gg/ftxB4kG2tw) or through [GitHub Releases](https://github.com/zhenga8533/VolcAddons/releases).
-
-2. **Unzip:** Extract the downloaded zip file. You should now see a folder named "VolcAddons".
-
-3. **Accessing ChatTriggers:** Launch Minecraft and enter the command `/ct files` (you can also find this by going into ChatTriggers through the Minecraft configs path)
-
-4. **Integration:** Return to the unzipped folder.
-
-5. **Module Replacement:** Drag the VolcAddons folder into the "modules" folder.
-
-6. **Confirmation:** If a pop-up appears, select "replace".
-
-7. **El Fin v2:** Now just type `/ct load` and your job is done!
-
-After you finish installing, go check out some other useful SkyBlock mods: https://sbmw.ca/mod-lists/skyblock-mod-list/!
-</br>
 
 ## Commands
 
